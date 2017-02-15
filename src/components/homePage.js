@@ -32,7 +32,7 @@ var Home = React.createClass({
 							<div className="intro-text">
 								<h1>Giveth<span className="io">.io</span></h1>
 								<p>Charitable donation is going through a massive transformation!<br/>
-								Join us to build communities around the causes you feel passionate about.</p>
+								Join us in building communities around awesome causes.</p>
 							</div>
 						</div>
 					</div>
